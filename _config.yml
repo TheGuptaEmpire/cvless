@@ -1,30 +1,26 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+title: Shoury Gupta | An Enthusiast
+description: Portfolio Site and Blog for SG
+taglong: Portfolio Site and Blog for SG
+tagshort: SG's site
 url: https://cvless.netlify.app
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/TheGuptaEmpire/cvless
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
-photo: /assets/jpg/photo.jpg
+  name: Shoury Gupta
+  email: shoury24gupta@.com
+photo: /assets/jpg/photo.png
 
 # social media links
 
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  twitter: username
+  github: TheGuptaEmpire
+  instagram: suryagupt_sg
 
 # build settings
 
